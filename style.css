@@ -362,4 +362,22 @@ h4{
   height: 500px;
   border-radius: 50%;
  border: 2px solid #fb5343;
+
 }
+.carosel-text{
+  display: inline;
+
+}
+.carousel-item{
+  display: inline;
+
+}
+#but-carol1:focus{
+ border: 2px solid rgb(30, 152, 251) ;
+}
+#but-carol2:focus{
+  border: 2px solid rgb(30, 152, 251) ;
+ }
+ #but-carol3:focus{
+  border: 2px solid rgb(30, 152, 251) ;
+ }
