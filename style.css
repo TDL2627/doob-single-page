@@ -164,6 +164,7 @@ hr{
 }
 .card{
   margin: 50px;
+  border-radius: 10px !important;
   background-color: transparent !important;
 }
 .card-title{
@@ -393,4 +394,23 @@ h4{
  }
  .card-link:hover{
    color: #059dff;
+ }
+ .loose{
+  border-radius: 15px;
+   background-color: rgb(37, 36, 36);
+   
+   padding-left: 0;
+   width: 1000px;
+   padding: 50px;
+ }
+ .purr-but{
+  border-radius: 15px;
+  color: white;
+  padding: 15px;
+  border:0.1px solid transparent;
+  background: linear-gradient(to right, rgb(185, 6, 185) , rgb(255, 17, 69));;
+ }
+ ul{
+  list-style: none; 
+  color: white;
  }
