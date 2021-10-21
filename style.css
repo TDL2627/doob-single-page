@@ -355,3 +355,11 @@ h4{
   padding: 50px;
   padding-top: 320px;
 }
+.div5{
+  text-align: center;
+}
+.testipic{
+  height: 500px;
+  border-radius: 50%;
+ border: 2px solid #fb5343;
+}
