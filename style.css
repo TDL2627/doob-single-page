@@ -381,3 +381,16 @@ h4{
  #but-carol3:focus{
   border: 2px solid rgb(30, 152, 251) ;
  }
+ .div6{
+   text-align: center;
+ }
+ .card-text{
+   color: rgb(180, 174, 174);
+ }
+ .card-link{
+   text-decoration: none;
+   color: white;
+ }
+ .card-link:hover{
+   color: #059dff;
+ }
